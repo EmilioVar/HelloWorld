@@ -1,8 +1,8 @@
 @font-face {
     font-family: JetBrains;
-    src: url("./media/fonts/JetBrainsMono-2.242/fonts/ttf/JetBrainsMono-Bold.ttf");
-    src: url(".fonts/fonts/JetBrainsMono-2.242/fonts/ttf/JetBrainsMono-Bold.ttf");
-    src: url(".fonts/fonts/JetBrainsMono-2.242/fonts/ttf/JetBrainsMono-Italic.ttf");
+    src: url("./fonts/JetBrainsMono-2.242/fonts/ttf/JetBrainsMono-Medium.ttf");
+    src: url("./fonts/JetBrainsMono-2.242/fonts/ttf/JetBrainsMono-Bold.ttf");
+    src: url("./fonts/JetBrainsMono-2.242/fonts/ttf/JetBrainsMono-Italic.ttf");
     src: url("./fonts/JetBrainsMono-2.242/fonts/ttf/JetBrainsMono-Regular.ttf");
 }
 

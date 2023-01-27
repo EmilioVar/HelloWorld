@@ -4,6 +4,7 @@ import * as bootstrap from 'bootstrap'
 import Typed from 'typed.js';
 window.Typed = Typed;
 import gsap from "gsap";
+window.gsap = gsap;
 
 /**
  * We'll load the axios HTTP library which allows us to easily issue requests
