@@ -1,5 +1,9 @@
 import _ from 'lodash';
 window._ = _;
+import * as bootstrap from 'bootstrap'
+import Typed from 'typed.js';
+window.Typed = Typed;
+import gsap from "gsap";
 
 /**
  * We'll load the axios HTTP library which allows us to easily issue requests
